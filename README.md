@@ -1,1 +1,2 @@
 # QUIZ-SYSTEM
+A Quiz System developed in Assembly Language, designed to present multiple-choice questions, take user input, and evaluate responses. This project utilizes low-level programming concepts, including registers, memory addressing, conditional branching, loops, and I/O operations for efficient question handling and score calculation. It demonstrates fundamental assembly programming techniques for interactive applications.
